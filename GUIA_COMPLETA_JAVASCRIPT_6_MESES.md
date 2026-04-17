@@ -1,7 +1,8 @@
 # 🚀 GUÍA DEFINITIVA: DOMINAR JAVASCRIPT EN 6 MESES
+
 ## es.javascript.info + freeCodeCamp + Herramientas Profesionales + Sistema de Motivación Real
 
-**Autor:** Tu Developer Senior  
+**Autor:** MontDev  
 **Tiempo:** 360 horas (2h/día × 180 días)  
 **Resultado:** 6+ proyectos en producción + oferta de empleo  
 **Última actualización:** 2026
@@ -9,6 +10,8 @@
 ---
 
 ## 📑 TABLA DE CONTENIDOS
+
+## Lista de Contenido 
 
 1. [La Verdad Cruda](#la-verdad-cruda)
 2. [Los 5 Momentos Críticos (y cómo pasarlos)](#los-5-momentos-críticos)
@@ -29,6 +32,7 @@ Hay personas que llevan 6 meses "aprendiendo" JavaScript viendo videos y copiand
 Siguen sin poder resolver un problema solos.
 
 Luego están los que estudian 6 meses de verdad:
+
 - Leen artículos complejos y resuelven ejercicios antes de ver soluciones
 - Escriben código en VSCode, lo rompen, entienden por qué se rompió
 - Usan git CADA DÍA, creando un heatmap que es evidencia física
@@ -52,6 +56,7 @@ Si sabes que van a llegar, puedes preparte para pasarlos sin abandonar.
 **La verdad:** Todos sienten eso. Incluso developers con años de experiencia.
 
 **Cómo pasarlo:**
+
 - ❌ NO releas el artículo completo de principio a fin
 - ✅ SÍ vuelve SOLO al párrafo que no entendiste
 - ✅ Dibuja el entorno léxico en PAPEL (en serio, papel)
@@ -59,6 +64,7 @@ Si sabes que van a llegar, puedes preparte para pasarlos sin abandonar.
 - ✅ Pide a Gemini que lo explique con una analogía que NO sea de código
 
 **Checkpoint antes de avanzar:**
+
 - [ ] Puedo explicar un closure en voz alta a alguien sin ver código
 - [ ] Implementé makeCounter() y once() sin mirar el tutorial
 - [ ] Usé el debugger para ver las variables del closure
@@ -74,6 +80,7 @@ Si no marcaste los 3 checkpoints → vuelve a estudiar closures. Tómately el ti
 **La verdad:** El event loop confunde a developers con 10 años de experiencia. Es genuinamente difícil. Por eso es lo más valuado en entrevistas técnicas.
 
 **Cómo pasarlo:**
+
 - ❌ NO tomes 2+ artículos de §11 en una sesión
 - ✅ MÁXIMO 2 artículos por sesión
 - ✅ Usa latentflip.com/loupe mientras ejecutas tu código
