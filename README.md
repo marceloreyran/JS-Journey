@@ -1,5 +1,3 @@
-# En VSCode, crea archivo README.md:
-
 
 # Mi Journey de JavaScript — 6 Meses
 
@@ -16,4 +14,4 @@ Aprendiendo a dominar JavaScript desde cero.
 360 horas en 6 meses = 2 horas cada día
 
 ## Progreso
-Empezado: $(date)
+Empezado: 
