@@ -1,5 +1,5 @@
 
-# Mi Journey de JavaScript — 6 Meses
+# 📚 Mi Journey de JavaScript — 6 Meses
 
 Aprendiendo a dominar JavaScript desde cero.
 
