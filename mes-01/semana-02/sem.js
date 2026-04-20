@@ -1,0 +1,1 @@
+//Esta es la semana 2 del curso de Javascript.
