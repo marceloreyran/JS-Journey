@@ -11,7 +11,7 @@
 
 ## 📑 TABLA DE CONTENIDOS
 
-## Lista de Contenido 
+## Lista de Contenido
 
 1. [La Verdad Cruda](#la-verdad-cruda)
 2. [Los 5 Momentos Críticos (y cómo pasarlos)](#los-5-momentos-críticos)
