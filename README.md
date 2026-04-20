@@ -1,5 +1,6 @@
 # En VSCode, crea archivo README.md:
-cat > README.md << 'CONTENT'
+
+
 # Mi Journey de JavaScript — 6 Meses
 
 Aprendiendo a dominar JavaScript desde cero.
