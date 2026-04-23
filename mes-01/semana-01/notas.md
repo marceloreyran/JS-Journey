@@ -1,5 +1,7 @@
-***
- Como regla general, solo los scripts más simples se colocan en el HTML. Los más complejos residen en archivos separados.
+*** 
+
+
+Como regla general, solo los scripts más simples se colocan en el HTML. Los más complejos residen en archivos separados.
 
 La ventaja de un archivo separado es que el navegador lo descargará y lo almacenará en caché.
 
