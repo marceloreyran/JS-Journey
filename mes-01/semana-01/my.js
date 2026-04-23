@@ -6,7 +6,32 @@
 //alert("Hola como ");
 //alert("estas?");
 
-alert(4 +
+/**alert(4 +
     5 
     +5
-);
+);**/
+
+//alert("Hola Mundo");
+//[1,2].forEach(alert);
+
+//alert("Hola Mundo")
+
+//[1,2].forEach(alert);
+
+//alert("Hello")[1, 2].forEach(alert);
+
+// Este comentario ocupa una línea propia.
+alert('Hello');
+
+alert('World'); // Este comentario sigue a la sentencia.
+
+/* Un ejemplo con dos mensajes.
+Este es un comentario multilínea.
+*/
+alert('Hola');
+alert('Mundo');
+
+/* Comentando el código
+alert('Hola');
+*/
+alert('Mundo');
