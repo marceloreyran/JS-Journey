@@ -11,3 +11,8 @@ let message;
 message = "Hola Mundo";
 alert(message);
 console.log(message);
+
+
+let message = 'Hola!'; // define la variable y asigna un valor
+
+alert(message); // Hola!
