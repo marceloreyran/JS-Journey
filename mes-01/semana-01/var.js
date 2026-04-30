@@ -16,3 +16,7 @@ console.log(message);
 let message = 'Hola!'; // define la variable y asigna un valor
 
 alert(message); // Hola!
+
+const myBirthday = "14-11-1984";
+console.log(myBirthday);
+
