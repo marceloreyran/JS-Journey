@@ -20,3 +20,8 @@ alert(message); // Hola!
 const myBirthday = "14-11-1984";
 console.log(myBirthday);
 
+let day = "4 Mayo";
+let month = "Mayo";
+let year = "2024";
+
+console.log(day);
