@@ -25,3 +25,8 @@ let month = "Mayo";
 let year = "2024";
 
 console.log(day);
+
+let auto; 
+auto = "Kia";
+modelo = "Rio";
+console.log(auto.modelo);
